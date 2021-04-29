@@ -25,7 +25,6 @@ O seu desafio é criar um cadastro de clientes com endereço.
 ## Obrigatório
 * Node.js
 * Express ou Adonis
-* Git
 
 ## Bonus points
 * Buscar a Latitude e longitude com o google
