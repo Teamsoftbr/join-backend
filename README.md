@@ -31,6 +31,7 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 * Validação dos campos
 
 ## Bonus points
+* Documentação
 * Buscar a Latitude e longitude com o google
 * TypeScript
 * Responsividade
