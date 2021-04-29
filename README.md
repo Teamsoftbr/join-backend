@@ -6,25 +6,29 @@ Conhecimento técnico é muito importante, mas acima de tudo, buscamos pessoas q
 E aí, topa o desafio? Então vem para o DreamTeam, vem para a TeamSoft! 
 
 ## Proposta
-O seu desafio é criar um cadastro de clientes com endereço.
+O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração e Remoção de Clientes com endereço.
 
 ## Cliente
-* CNPJ
-* Razão Social
-* Contato
-* Telefone
+* CNPJ (Obrigatório)
+* Razão Social (Obrigatório)
+* Contato (Obrigatório)
+* Telefone (Obrigatório)
 
 ## Endereço
-* Endereço
-* Número
+* Endereço (Obrigatório)
+* Número (Obrigatório)
 * Complemento
-* Bairro
-* Cidade
-* Estado
+* Bairro (Obrigatório)
+* Cidade (Obrigatório)
+* Estado (Obrigatório)
+* CEP (Obrigatório)
+* Latitude (Somente leitura, bonus points)
+* Longitude (Somente leitura, bonus points)
 
 ## Obrigatório
 * Node.js
 * Express ou Adonis
+* Validação dos campos
 
 ## Bonus points
 * Buscar a Latitude e longitude com o google
