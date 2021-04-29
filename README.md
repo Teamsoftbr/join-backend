@@ -23,7 +23,7 @@ O seu desafio é criar um cadastro de clientes com endereço.
 * Estado
 
 ## Obrigatório
-* Node.s
+* Node.js
 * Express ou Adonis
 * Git
 
