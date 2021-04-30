@@ -11,11 +11,11 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 ## Cliente
 * CNPJ (Obrigatório)
 * Razão Social (Obrigatório)
-* Contato (Obrigatório)
+* Nome do Contato (Obrigatório)
 * Telefone (Obrigatório)
 
 ## Endereço
-* Endereço (Obrigatório)
+* Logradouro (Obrigatório)
 * Número (Obrigatório)
 * Complemento
 * Bairro (Obrigatório)
