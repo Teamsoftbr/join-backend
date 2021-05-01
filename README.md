@@ -6,7 +6,7 @@ Conhecimento técnico é muito importante, mas acima de tudo, buscamos pessoas q
 E aí, topa o desafio? Então vem para o DreamTeam, vem para a TeamSoft! 
 
 ## Proposta
-O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração e Remoção de Clientes com endereço em uma API REST.
+O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração e Remoção de Clientes com endereço em uma API REST;
 
 ## Cliente
 * CNPJ (Obrigatório)
@@ -29,6 +29,7 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 * Node.js
 * Express ou Adonis
 * Validação dos campos
+* Poderá ser utilizado Mysql ou MongooDB. (se optar por Mysql, faça migration ou um .sql com o script de criação das tabelas)
 
 ## Bonus points
 * Documentação
@@ -38,13 +39,19 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 
 ## Critérios de avaliação
 * Organização do projeto
-* Lógica de programações
+* Lógica de programação
 * Bonus Points
 
 
 ## Entregando o teste
 
-Suba o arquivo .zip do projeto no drive ou similar, e envie o link para e-mail abaixo, com o titulo "Desenvolvedor Back-End" e seu nome completo. Não faça pull request para este repositório ou abra uma issue. Este teste é apenas para quem se inscreveu no processo de seleção.
+* Se possível exporte os requests do projeto no insominia ou postman.
+* Compacte tudo (.zip ou .rar)
+* Suba o projeto no drive ou similar
+* envie o link para e-mail abaixo, com o titulo "Desenvolvedor Back-End" e seu nome completo. 
+* Não faça pull request para este repositório ou abra uma issue. 
+
+OBS: Este teste é apenas para quem se inscreveu no processo de seleção.
 
 Email:
 _**rh@teamsoft.com.br**_
