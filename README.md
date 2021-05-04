@@ -6,7 +6,7 @@ Conhecimento técnico é muito importante, mas acima de tudo, buscamos pessoas q
 E aí, topa o desafio? Então vem para o DreamTeam, vem para a TeamSoft! 
 
 ## Proposta
-O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração e Remoção de Clientes com endereço em uma API REST;
+O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração e Remoção de Clientes com endereço, construir 2 entidades separadas, um cliente pode ter mais de um endereço, em uma API REST;
 
 ## Cliente
 * CNPJ (Obrigatório)
