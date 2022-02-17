@@ -42,19 +42,12 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 * Lógica de programação
 * Bonus Points
 
-
 ## Entregando o teste
 
-* Se possível exporte os requests do projeto no insominia ou postman.
-* Compacte tudo (.zip ou .rar)
-* Suba o projeto no drive ou similar
-* envie o link para e-mail abaixo, com o titulo "Desenvolvedor Back-End" e seu nome completo. 
-* Não faça pull request para este repositório ou abra uma issue. 
+Suba seu projeto no github de forma pública e envie o link no formulário abaixo com seus dados.Este teste é apenas para quem se inscreveu no processo de seleção.
 
-OBS: Este teste é apenas para quem se inscreveu no processo de seleção.
+https://forms.gle/np3R4UYxScMEpA3n9
 
-Email:
-_**rh@teamsoft.com.br**_
 
 ---
 
