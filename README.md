@@ -46,7 +46,7 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 
 Suba seu projeto no github de forma pública e envie o link no formulário abaixo com seus dados.Este teste é apenas para quem se inscreveu no processo de seleção.
 
-https://forms.gle/np3R4UYxScMEpA3n9
+https://forms.gle/XTgmwXbvHUZhgygu7
 
 
 ---
