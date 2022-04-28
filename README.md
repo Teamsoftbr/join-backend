@@ -35,7 +35,7 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 * Documentação
 * Buscar a Latitude e longitude com o google
 * TypeScript
-* Responsividade
+* Testes
 
 ## Critérios de avaliação
 * Organização do projeto
