@@ -27,7 +27,7 @@ O seu desafio é criar as operações básicas de Cadastro, Leitura, Alteração
 
 ## Obrigatório
 * Node.js
-* Express ou Adonis
+* Express ou Adonis ou Nest.js
 * Validação dos campos
 * Poderá ser utilizado Mysql ou MongooDB. (se optar por Mysql, faça migration ou um .sql com o script de criação das tabelas)
 
